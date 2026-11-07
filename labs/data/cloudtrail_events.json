@@ -1,0 +1,586 @@
+[
+ {
+  "eventTime": "2026-11-01T05:09:42Z",
+  "eventName": "PutObject",
+  "userName": "it-admin",
+  "sourceIPAddress": "198.51.100.20",
+  "awsRegion": "eu-central-1",
+  "resource": "anu-course-files"
+ },
+ {
+  "eventTime": "2026-11-01T05:37:57Z",
+  "eventName": "GetObject",
+  "userName": "sara",
+  "sourceIPAddress": "198.51.100.20",
+  "awsRegion": "eu-central-1",
+  "resource": "anu-course-files"
+ },
+ {
+  "eventTime": "2026-11-01T06:31:48Z",
+  "eventName": "ConsoleLogin",
+  "userName": "sara",
+  "sourceIPAddress": "198.51.100.20",
+  "awsRegion": "eu-central-1",
+  "resource": ""
+ },
+ {
+  "eventTime": "2026-11-01T06:48:12Z",
+  "eventName": "ConsoleLogin",
+  "userName": "sara",
+  "sourceIPAddress": "198.51.100.20",
+  "awsRegion": "eu-central-1",
+  "resource": ""
+ },
+ {
+  "eventTime": "2026-11-01T06:54:27Z",
+  "eventName": "ConsoleLogin",
+  "userName": "sara",
+  "sourceIPAddress": "198.51.100.20",
+  "awsRegion": "eu-central-1",
+  "resource": ""
+ },
+ {
+  "eventTime": "2026-11-01T10:20:49Z",
+  "eventName": "GetObject",
+  "userName": "alice",
+  "sourceIPAddress": "198.51.100.20",
+  "awsRegion": "eu-central-1",
+  "resource": "anu-course-files"
+ },
+ {
+  "eventTime": "2026-11-01T10:31:59Z",
+  "eventName": "DescribeInstances",
+  "userName": "sara",
+  "sourceIPAddress": "198.51.100.20",
+  "awsRegion": "eu-central-1",
+  "resource": ""
+ },
+ {
+  "eventTime": "2026-11-01T10:51:26Z",
+  "eventName": "PutObject",
+  "userName": "sara",
+  "sourceIPAddress": "198.51.100.20",
+  "awsRegion": "eu-central-1",
+  "resource": "anu-course-files"
+ },
+ {
+  "eventTime": "2026-11-01T12:51:12Z",
+  "eventName": "DescribeInstances",
+  "userName": "alice",
+  "sourceIPAddress": "198.51.100.20",
+  "awsRegion": "eu-central-1",
+  "resource": ""
+ },
+ {
+  "eventTime": "2026-11-01T13:43:06Z",
+  "eventName": "DescribeInstances",
+  "userName": "sara",
+  "sourceIPAddress": "198.51.100.20",
+  "awsRegion": "eu-central-1",
+  "resource": ""
+ },
+ {
+  "eventTime": "2026-11-01T13:44:51Z",
+  "eventName": "GetObject",
+  "userName": "sara",
+  "sourceIPAddress": "198.51.100.20",
+  "awsRegion": "eu-central-1",
+  "resource": "anu-course-files"
+ },
+ {
+  "eventTime": "2026-11-01T13:58:01Z",
+  "eventName": "ListBuckets",
+  "userName": "sara",
+  "sourceIPAddress": "198.51.100.20",
+  "awsRegion": "eu-central-1",
+  "resource": ""
+ },
+ {
+  "eventTime": "2026-11-01T21:00:00Z",
+  "eventName": "PutObject",
+  "userName": "backup-svc",
+  "sourceIPAddress": "198.51.100.20",
+  "awsRegion": "eu-central-1",
+  "resource": "anu-backups"
+ },
+ {
+  "eventTime": "2026-11-01T21:01:00Z",
+  "eventName": "PutObject",
+  "userName": "backup-svc",
+  "sourceIPAddress": "198.51.100.20",
+  "awsRegion": "eu-central-1",
+  "resource": "anu-backups"
+ },
+ {
+  "eventTime": "2026-11-01T21:02:00Z",
+  "eventName": "PutObject",
+  "userName": "backup-svc",
+  "sourceIPAddress": "198.51.100.20",
+  "awsRegion": "eu-central-1",
+  "resource": "anu-backups"
+ },
+ {
+  "eventTime": "2026-11-02T06:32:56Z",
+  "eventName": "ListBuckets",
+  "userName": "it-admin",
+  "sourceIPAddress": "198.51.100.20",
+  "awsRegion": "eu-central-1",
+  "resource": ""
+ },
+ {
+  "eventTime": "2026-11-02T06:38:42Z",
+  "eventName": "GetObject",
+  "userName": "sara",
+  "sourceIPAddress": "198.51.100.20",
+  "awsRegion": "eu-central-1",
+  "resource": "anu-course-files"
+ },
+ {
+  "eventTime": "2026-11-02T07:27:38Z",
+  "eventName": "ConsoleLogin",
+  "userName": "alice",
+  "sourceIPAddress": "198.51.100.20",
+  "awsRegion": "eu-central-1",
+  "resource": ""
+ },
+ {
+  "eventTime": "2026-11-02T08:24:30Z",
+  "eventName": "ListBuckets",
+  "userName": "sara",
+  "sourceIPAddress": "198.51.100.20",
+  "awsRegion": "eu-central-1",
+  "resource": ""
+ },
+ {
+  "eventTime": "2026-11-02T08:49:10Z",
+  "eventName": "GetObject",
+  "userName": "alice",
+  "sourceIPAddress": "198.51.100.20",
+  "awsRegion": "eu-central-1",
+  "resource": "anu-course-files"
+ },
+ {
+  "eventTime": "2026-11-02T08:53:55Z",
+  "eventName": "ConsoleLogin",
+  "userName": "it-admin",
+  "sourceIPAddress": "198.51.100.20",
+  "awsRegion": "eu-central-1",
+  "resource": ""
+ },
+ {
+  "eventTime": "2026-11-02T09:08:43Z",
+  "eventName": "ConsoleLogin",
+  "userName": "alice",
+  "sourceIPAddress": "198.51.100.20",
+  "awsRegion": "eu-central-1",
+  "resource": ""
+ },
+ {
+  "eventTime": "2026-11-02T09:23:24Z",
+  "eventName": "PutObject",
+  "userName": "it-admin",
+  "sourceIPAddress": "198.51.100.20",
+  "awsRegion": "eu-central-1",
+  "resource": "anu-course-files"
+ },
+ {
+  "eventTime": "2026-11-02T10:35:57Z",
+  "eventName": "DescribeInstances",
+  "userName": "it-admin",
+  "sourceIPAddress": "198.51.100.20",
+  "awsRegion": "eu-central-1",
+  "resource": ""
+ },
+ {
+  "eventTime": "2026-11-02T11:19:22Z",
+  "eventName": "ConsoleLogin",
+  "userName": "it-admin",
+  "sourceIPAddress": "198.51.100.20",
+  "awsRegion": "eu-central-1",
+  "resource": ""
+ },
+ {
+  "eventTime": "2026-11-02T12:15:51Z",
+  "eventName": "DescribeInstances",
+  "userName": "alice",
+  "sourceIPAddress": "198.51.100.20",
+  "awsRegion": "eu-central-1",
+  "resource": ""
+ },
+ {
+  "eventTime": "2026-11-02T12:28:50Z",
+  "eventName": "ConsoleLogin",
+  "userName": "alice",
+  "sourceIPAddress": "198.51.100.20",
+  "awsRegion": "eu-central-1",
+  "resource": ""
+ },
+ {
+  "eventTime": "2026-11-02T21:00:00Z",
+  "eventName": "PutObject",
+  "userName": "backup-svc",
+  "sourceIPAddress": "198.51.100.20",
+  "awsRegion": "eu-central-1",
+  "resource": "anu-backups"
+ },
+ {
+  "eventTime": "2026-11-02T21:01:00Z",
+  "eventName": "PutObject",
+  "userName": "backup-svc",
+  "sourceIPAddress": "198.51.100.20",
+  "awsRegion": "eu-central-1",
+  "resource": "anu-backups"
+ },
+ {
+  "eventTime": "2026-11-02T21:02:00Z",
+  "eventName": "PutObject",
+  "userName": "backup-svc",
+  "sourceIPAddress": "198.51.100.20",
+  "awsRegion": "eu-central-1",
+  "resource": "anu-backups"
+ },
+ {
+  "eventTime": "2026-11-03T05:34:07Z",
+  "eventName": "DescribeInstances",
+  "userName": "sara",
+  "sourceIPAddress": "198.51.100.20",
+  "awsRegion": "eu-central-1",
+  "resource": ""
+ },
+ {
+  "eventTime": "2026-11-03T07:59:52Z",
+  "eventName": "DescribeInstances",
+  "userName": "sara",
+  "sourceIPAddress": "198.51.100.20",
+  "awsRegion": "eu-central-1",
+  "resource": ""
+ },
+ {
+  "eventTime": "2026-11-03T09:20:41Z",
+  "eventName": "PutObject",
+  "userName": "alice",
+  "sourceIPAddress": "198.51.100.20",
+  "awsRegion": "eu-central-1",
+  "resource": "anu-course-files"
+ },
+ {
+  "eventTime": "2026-11-03T10:12:16Z",
+  "eventName": "PutObject",
+  "userName": "it-admin",
+  "sourceIPAddress": "198.51.100.20",
+  "awsRegion": "eu-central-1",
+  "resource": "anu-course-files"
+ },
+ {
+  "eventTime": "2026-11-03T10:42:10Z",
+  "eventName": "PutObject",
+  "userName": "it-admin",
+  "sourceIPAddress": "198.51.100.20",
+  "awsRegion": "eu-central-1",
+  "resource": "anu-course-files"
+ },
+ {
+  "eventTime": "2026-11-03T10:59:33Z",
+  "eventName": "PutObject",
+  "userName": "sara",
+  "sourceIPAddress": "198.51.100.20",
+  "awsRegion": "eu-central-1",
+  "resource": "anu-course-files"
+ },
+ {
+  "eventTime": "2026-11-03T11:05:12Z",
+  "eventName": "PutObject",
+  "userName": "sara",
+  "sourceIPAddress": "198.51.100.20",
+  "awsRegion": "eu-central-1",
+  "resource": "anu-course-files"
+ },
+ {
+  "eventTime": "2026-11-03T11:31:19Z",
+  "eventName": "GetObject",
+  "userName": "alice",
+  "sourceIPAddress": "198.51.100.20",
+  "awsRegion": "eu-central-1",
+  "resource": "anu-course-files"
+ },
+ {
+  "eventTime": "2026-11-03T11:39:31Z",
+  "eventName": "DescribeInstances",
+  "userName": "sara",
+  "sourceIPAddress": "198.51.100.20",
+  "awsRegion": "eu-central-1",
+  "resource": ""
+ },
+ {
+  "eventTime": "2026-11-03T12:42:30Z",
+  "eventName": "ListBuckets",
+  "userName": "alice",
+  "sourceIPAddress": "198.51.100.20",
+  "awsRegion": "eu-central-1",
+  "resource": ""
+ },
+ {
+  "eventTime": "2026-11-03T12:46:50Z",
+  "eventName": "ConsoleLogin",
+  "userName": "sara",
+  "sourceIPAddress": "198.51.100.20",
+  "awsRegion": "eu-central-1",
+  "resource": ""
+ },
+ {
+  "eventTime": "2026-11-03T13:27:30Z",
+  "eventName": "GetObject",
+  "userName": "sara",
+  "sourceIPAddress": "198.51.100.20",
+  "awsRegion": "eu-central-1",
+  "resource": "anu-course-files"
+ },
+ {
+  "eventTime": "2026-11-03T21:00:00Z",
+  "eventName": "PutObject",
+  "userName": "backup-svc",
+  "sourceIPAddress": "198.51.100.20",
+  "awsRegion": "eu-central-1",
+  "resource": "anu-backups"
+ },
+ {
+  "eventTime": "2026-11-03T21:01:00Z",
+  "eventName": "PutObject",
+  "userName": "backup-svc",
+  "sourceIPAddress": "198.51.100.20",
+  "awsRegion": "eu-central-1",
+  "resource": "anu-backups"
+ },
+ {
+  "eventTime": "2026-11-03T21:02:00Z",
+  "eventName": "PutObject",
+  "userName": "backup-svc",
+  "sourceIPAddress": "198.51.100.20",
+  "awsRegion": "eu-central-1",
+  "resource": "anu-backups"
+ },
+ {
+  "eventTime": "2026-11-03T23:38:05Z",
+  "eventName": "GetCallerIdentity",
+  "userName": "backup-svc",
+  "sourceIPAddress": "203.0.113.45",
+  "awsRegion": "us-east-1",
+  "resource": ""
+ },
+ {
+  "eventTime": "2026-11-03T23:39:05Z",
+  "eventName": "ListBuckets",
+  "userName": "backup-svc",
+  "sourceIPAddress": "203.0.113.45",
+  "awsRegion": "us-east-1",
+  "resource": ""
+ },
+ {
+  "eventTime": "2026-11-03T23:40:05Z",
+  "eventName": "GetObject",
+  "userName": "backup-svc",
+  "sourceIPAddress": "203.0.113.45",
+  "awsRegion": "eu-central-1",
+  "resource": "anu-backups"
+ },
+ {
+  "eventTime": "2026-11-03T23:40:45Z",
+  "eventName": "GetObject",
+  "userName": "backup-svc",
+  "sourceIPAddress": "203.0.113.45",
+  "awsRegion": "eu-central-1",
+  "resource": "anu-backups"
+ },
+ {
+  "eventTime": "2026-11-03T23:41:05Z",
+  "eventName": "DescribeRegions",
+  "userName": "backup-svc",
+  "sourceIPAddress": "203.0.113.45",
+  "awsRegion": "us-east-1",
+  "resource": ""
+ },
+ {
+  "eventTime": "2026-11-03T23:42:05Z",
+  "eventName": "RunInstances",
+  "userName": "backup-svc",
+  "sourceIPAddress": "203.0.113.45",
+  "awsRegion": "ap-southeast-1",
+  "resource": "c5.4xlarge"
+ },
+ {
+  "eventTime": "2026-11-03T23:42:17Z",
+  "eventName": "RunInstances",
+  "userName": "backup-svc",
+  "sourceIPAddress": "203.0.113.45",
+  "awsRegion": "ap-southeast-1",
+  "resource": "c5.4xlarge"
+ },
+ {
+  "eventTime": "2026-11-03T23:42:29Z",
+  "eventName": "RunInstances",
+  "userName": "backup-svc",
+  "sourceIPAddress": "203.0.113.45",
+  "awsRegion": "ap-southeast-1",
+  "resource": "c5.4xlarge"
+ },
+ {
+  "eventTime": "2026-11-03T23:42:41Z",
+  "eventName": "RunInstances",
+  "userName": "backup-svc",
+  "sourceIPAddress": "203.0.113.45",
+  "awsRegion": "ap-southeast-1",
+  "resource": "c5.4xlarge"
+ },
+ {
+  "eventTime": "2026-11-03T23:42:53Z",
+  "eventName": "RunInstances",
+  "userName": "backup-svc",
+  "sourceIPAddress": "203.0.113.45",
+  "awsRegion": "ap-southeast-1",
+  "resource": "c5.4xlarge"
+ },
+ {
+  "eventTime": "2026-11-03T23:43:05Z",
+  "eventName": "RunInstances",
+  "userName": "backup-svc",
+  "sourceIPAddress": "203.0.113.45",
+  "awsRegion": "ap-southeast-1",
+  "resource": "c5.4xlarge"
+ },
+ {
+  "eventTime": "2026-11-03T23:43:17Z",
+  "eventName": "RunInstances",
+  "userName": "backup-svc",
+  "sourceIPAddress": "203.0.113.45",
+  "awsRegion": "ap-southeast-1",
+  "resource": "c5.4xlarge"
+ },
+ {
+  "eventTime": "2026-11-03T23:43:29Z",
+  "eventName": "RunInstances",
+  "userName": "backup-svc",
+  "sourceIPAddress": "203.0.113.45",
+  "awsRegion": "ap-southeast-1",
+  "resource": "c5.4xlarge"
+ },
+ {
+  "eventTime": "2026-11-03T23:43:41Z",
+  "eventName": "RunInstances",
+  "userName": "backup-svc",
+  "sourceIPAddress": "203.0.113.45",
+  "awsRegion": "ap-southeast-1",
+  "resource": "c5.4xlarge"
+ },
+ {
+  "eventTime": "2026-11-03T23:43:53Z",
+  "eventName": "RunInstances",
+  "userName": "backup-svc",
+  "sourceIPAddress": "203.0.113.45",
+  "awsRegion": "ap-southeast-1",
+  "resource": "c5.4xlarge"
+ },
+ {
+  "eventTime": "2026-11-03T23:44:05Z",
+  "eventName": "RunInstances",
+  "userName": "backup-svc",
+  "sourceIPAddress": "203.0.113.45",
+  "awsRegion": "ap-southeast-1",
+  "resource": "c5.4xlarge"
+ },
+ {
+  "eventTime": "2026-11-03T23:44:17Z",
+  "eventName": "RunInstances",
+  "userName": "backup-svc",
+  "sourceIPAddress": "203.0.113.45",
+  "awsRegion": "ap-southeast-1",
+  "resource": "c5.4xlarge"
+ },
+ {
+  "eventTime": "2026-11-03T23:44:29Z",
+  "eventName": "RunInstances",
+  "userName": "backup-svc",
+  "sourceIPAddress": "203.0.113.45",
+  "awsRegion": "ap-southeast-1",
+  "resource": "c5.4xlarge"
+ },
+ {
+  "eventTime": "2026-11-03T23:44:41Z",
+  "eventName": "RunInstances",
+  "userName": "backup-svc",
+  "sourceIPAddress": "203.0.113.45",
+  "awsRegion": "ap-southeast-1",
+  "resource": "c5.4xlarge"
+ },
+ {
+  "eventTime": "2026-11-03T23:44:53Z",
+  "eventName": "RunInstances",
+  "userName": "backup-svc",
+  "sourceIPAddress": "203.0.113.45",
+  "awsRegion": "ap-southeast-1",
+  "resource": "c5.4xlarge"
+ },
+ {
+  "eventTime": "2026-11-03T23:45:05Z",
+  "eventName": "RunInstances",
+  "userName": "backup-svc",
+  "sourceIPAddress": "203.0.113.45",
+  "awsRegion": "ap-southeast-1",
+  "resource": "c5.4xlarge"
+ },
+ {
+  "eventTime": "2026-11-03T23:45:17Z",
+  "eventName": "RunInstances",
+  "userName": "backup-svc",
+  "sourceIPAddress": "203.0.113.45",
+  "awsRegion": "ap-southeast-1",
+  "resource": "c5.4xlarge"
+ },
+ {
+  "eventTime": "2026-11-03T23:45:29Z",
+  "eventName": "RunInstances",
+  "userName": "backup-svc",
+  "sourceIPAddress": "203.0.113.45",
+  "awsRegion": "ap-southeast-1",
+  "resource": "c5.4xlarge"
+ },
+ {
+  "eventTime": "2026-11-03T23:45:41Z",
+  "eventName": "RunInstances",
+  "userName": "backup-svc",
+  "sourceIPAddress": "203.0.113.45",
+  "awsRegion": "ap-southeast-1",
+  "resource": "c5.4xlarge"
+ },
+ {
+  "eventTime": "2026-11-03T23:45:53Z",
+  "eventName": "RunInstances",
+  "userName": "backup-svc",
+  "sourceIPAddress": "203.0.113.45",
+  "awsRegion": "ap-southeast-1",
+  "resource": "c5.4xlarge"
+ },
+ {
+  "eventTime": "2026-11-03T23:47:05Z",
+  "eventName": "CreateUser",
+  "userName": "backup-svc",
+  "sourceIPAddress": "203.0.113.45",
+  "awsRegion": "us-east-1",
+  "resource": "support-admin"
+ },
+ {
+  "eventTime": "2026-11-03T23:48:05Z",
+  "eventName": "AttachUserPolicy",
+  "userName": "backup-svc",
+  "sourceIPAddress": "203.0.113.45",
+  "awsRegion": "us-east-1",
+  "resource": "AdministratorAccess"
+ },
+ {
+  "eventTime": "2026-11-03T23:49:05Z",
+  "eventName": "CreateAccessKey",
+  "userName": "backup-svc",
+  "sourceIPAddress": "203.0.113.45",
+  "awsRegion": "us-east-1",
+  "resource": "support-admin"
+ }
+]

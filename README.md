@@ -27,15 +27,41 @@ Speaker notes in every PowerPoint file contain the explanation, answers to class
 
 ## Labs
 
-- [`labs/Chapter4_Complete_Example.ipynb`](labs/Chapter4_Complete_Example.ipynb): train and test an AI intrusion
-  detector in Python (pandas, scikit-learn). Open it in [Google Colab](https://colab.research.google.com), upload
-  `Train_data.csv` from the Kaggle dataset
-  [Network Intrusion Detection](https://www.kaggle.com/datasets/sampadab17/network-intrusion-detection), and run the cells.
-- The same code as a plain script: [`labs/Chapter4_Complete_Example.py`](labs/Chapter4_Complete_Example.py).
-- No-code labs use [Orange Data Mining](https://orangedatamining.com); the steps are on the lab slides of each chapter.
+The **[Lab Manual](labs/Lab_Manual_314341.pdf)** ([docx](labs/Lab_Manual_314341.docx)) has 18 labs. Each lab gives the objective,
+tools, data, numbered steps, questions and what to hand in. No-code labs use [Orange Data Mining](https://orangedatamining.com)
+and free web tools; Python labs run in Google Colab in the browser, with nothing to install.
 
-Public datasets used in the slides: Kaggle Phishing Email Detection, Web Page Phishing Detection, SMS Spam Collection,
-Credit Card Fraud Detection, Network Intrusion Detection, and Loghub OpenSSH logs (links on the "Practice" slides).
+| Lab | Title | Chapter | Tool | Notebook |
+|-----|-------|---------|------|----------|
+| 1 | Meet AI: train your first model | 1 | Teachable Machine |  |
+| 2 | A first look at security data | 2 | Orange |  |
+| 3 | A phishing-website detector with a decision tree | 2 | Orange |  |
+| 4 | An SMS spam detector that reads text | 2 | Orange (Text add-on) |  |
+| 5 | A phishing e-mail detector | 2 | Python | [Lab05_Phishing_Email_Text.ipynb](labs/Lab05_Phishing_Email_Text.ipynb) · [Open in Colab](https://colab.research.google.com/github/kmkholm/ai-cybersecurity-cloud-course/blob/main/labs/Lab05_Phishing_Email_Text.ipynb) |
+| 6 | Finding SSH brute-force attacks in real logs | 3 | Python | [Lab06_SSH_Brute_Force_Logs.ipynb](labs/Lab06_SSH_Brute_Force_Logs.ipynb) · [Open in Colab](https://colab.research.google.com/github/kmkholm/ai-cybersecurity-cloud-course/blob/main/labs/Lab06_SSH_Brute_Force_Logs.ipynb) |
+| 7 | Preparing intrusion data | 3 | Orange |  |
+| 8 | Cleaning and preparing a login table | 3 | Python | [Lab08_Cleaning_Login_Data.ipynb](labs/Lab08_Cleaning_Login_Data.ipynb) · [Open in Colab](https://colab.research.google.com/github/kmkholm/ai-cybersecurity-cloud-course/blob/main/labs/Lab08_Cleaning_Login_Data.ipynb) |
+| 9 | Train, test and judge an IDS | 4 | Orange |  |
+| 10 | Complete example: an AI intrusion detector | 4 | Python | [Chapter4_Complete_Example.ipynb](labs/Chapter4_Complete_Example.ipynb) · [Open in Colab](https://colab.research.google.com/github/kmkholm/ai-cybersecurity-cloud-course/blob/main/labs/Chapter4_Complete_Example.ipynb) |
+| 11 | Card fraud and the accuracy trap | 4 | Python | [Lab11_Fraud_Imbalanced_Data.ipynb](labs/Lab11_Fraud_Imbalanced_Data.ipynb) · [Open in Colab](https://colab.research.google.com/github/kmkholm/ai-cybersecurity-cloud-course/blob/main/labs/Lab11_Fraud_Imbalanced_Data.ipynb) |
+| 12 | Android malware detection with a random forest | 4 | Python | [Lab12_Android_Malware.ipynb](labs/Lab12_Android_Malware.ipynb) · [Open in Colab](https://colab.research.google.com/github/kmkholm/ai-cybersecurity-cloud-course/blob/main/labs/Lab12_Android_Malware.ipynb) |
+| 13 | Inside a neural network | 5 | TensorFlow Playground, Orange |  |
+| 14 | Generative AI as a SOC assistant | 5 | Any chatbot |  |
+| 15 | Prompt injection with Gandalf | 5 | gandalf.lakera.ai |  |
+| 16 | Investigating a cloud account with CloudTrail | 6 | Python | [Lab16_CloudTrail_Investigation.ipynb](labs/Lab16_CloudTrail_Investigation.ipynb) · [Open in Colab](https://colab.research.google.com/github/kmkholm/ai-cybersecurity-cloud-course/blob/main/labs/Lab16_CloudTrail_Investigation.ipynb) |
+| 17 | Cloud misconfiguration: flaws.cloud | 6 | Browser |  |
+| 18 | Threat-modelling a university chatbot | 6 | OWASP Top 10 for LLM Applications |  |
+
+Data made for the course (invented records) is in [`labs/data`](labs/data): `dirty_logins.csv` (Lab 8) and
+`cloudtrail_events.json` (Lab 16); the notebooks load it from this repository. The other labs use public datasets:
+[Phishing Email Detection](https://www.kaggle.com/datasets/subhajournal/phishingemails),
+[Web Page Phishing Detection](https://www.kaggle.com/datasets/shashwatwork/web-page-phishing-detection-dataset),
+[SMS Spam Collection](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset),
+[Network Intrusion Detection](https://www.kaggle.com/datasets/sampadab17/network-intrusion-detection),
+[Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud),
+[Android Malware Dataset for Machine Learning](https://www.kaggle.com/datasets/shashwatwork/android-malware-dataset-for-machine-learning)
+and [Loghub](https://github.com/logpai/loghub) OpenSSH logs.
+The Chapter 4 example is also available as a plain script: [`labs/Chapter4_Complete_Example.py`](labs/Chapter4_Complete_Example.py).
 
 ## Note
 
